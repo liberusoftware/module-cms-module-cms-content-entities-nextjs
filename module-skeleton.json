@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-module-cms-content-entities-nextjs",
+  "capabilityKey": "planned:cms:module-cms-content-entities",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-cms-module-cms-content-entities-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/cms/nextjs/module-cms-content-entities.md",
+  "presentationPlan": "projects/cms/nextjs/module-cms-content-entities.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
